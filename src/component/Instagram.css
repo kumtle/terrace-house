@@ -1,0 +1,20 @@
+#dv-instagram .post {
+  width: 70vw;
+  left: 15vw;
+  position: relative;
+  top: -100px;
+}
+
+#dv-instagram .instagram-media {
+  width: 70w !important;
+  min-width: 0px !important;
+}
+
+#dv-instagram {
+  position: relative;
+  top: -100px;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+}
+ 
